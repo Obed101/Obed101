@@ -4,6 +4,7 @@
 - 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8) :wave:  
 <!-- 🔭 I’m currently working on some amazing projects. Yet to be disclosed :) stay in touch  -->
 - 👯 Anyone willing to collaborate on a register application? [Inbox me](mailto:obedamoako92@gmail.com)  
+- [🙏Buy me a coffee🙏](https://paypal.me/ericobe)  
 
 - :eyes: I am currently studying Full-stack Engineering at [ALX](https://www.alxafrica.com)  
 - :coffee: I am currently skilled in Python, C, MySQL, Bash, JavaScript, HTML, CSS, etc.  
