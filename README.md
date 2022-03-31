@@ -7,7 +7,8 @@
 - [🙏Buy me a coffee🙏](https://paypal.me/ericobe)  
 
 - :eyes: I am currently studying Full-stack Engineering at [ALX](https://www.alxafrica.com)  
-- :coffee: I am currently skilled in Python, C, MySQL, Bash, JavaScript, HTML, CSS, etc.  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obed101&&show_icons=true&theme=radical&layout=compact)](https://github.com/Obed101/github-readme-stats)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obed101&show_icons=true)  
 
