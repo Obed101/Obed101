@@ -12,11 +12,12 @@
 
 ### Languages I Use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-slateblue?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-darkblue?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-slateblue?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Bash](https://img.shields.io/badge/-Bash-slateblue?style=flat&logo=linux)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obed101&show_icons=true)  
 
