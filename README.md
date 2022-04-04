@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obed101&&show_icons=true&theme=radical&layout=compact)](https://github.com/Obed101/github-readme-stats)  
 
-### Languages I Use
+### _In All:_
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-slateblue?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-darkblue?style=flat&logo=c)
