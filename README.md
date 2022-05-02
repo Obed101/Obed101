@@ -15,8 +15,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-slateblue?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-darkblue?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-slateblue?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![CSS3](https://img.shields.io/badge/-CSS3-slateblue?style=flat&logo=css3)  
+![MySQL](https://img.shields.io/badge/-MySQL-darkblue?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-000000?&logo=redis)
 ![Bash](https://img.shields.io/badge/-Bash-slateblue?style=flat&logo=linux)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obed101&show_icons=true)  
