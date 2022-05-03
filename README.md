@@ -18,9 +18,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-slateblue?style=flat&logo=css3)  
 ![MySQL](https://img.shields.io/badge/-MySQL-darkblue?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-000000?&logo=redis)
+![Redis](https://img.shields.io/badge/-Redis-blue?&logo=redis)
 ![Bash](https://img.shields.io/badge/-Bash-slateblue?style=flat&logo=linux)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obed101&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Obed101&show_icons=false)  
 
 ![Profile views](https://gpvc.arturio.dev/Obed101)
