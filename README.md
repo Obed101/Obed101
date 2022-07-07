@@ -1,9 +1,9 @@
 ## Hi there 👋 This is Obed Amoako
 
-- 📫 Want to reach me? send a mail to [Obed Amoako](mailto:obedamoako92@gmail.com). Lets connect  
+- 📫 Want to reach me? Send a mail to [Obed Amoako](mailto:obedamoako92@gmail.com). Lets connect  
+- I do recommend you visit [ericob.sytes.net](https://ericob.sytes.net) to learn more about me and reach out to me  
 - 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8) :wave:  
-<!-- 🔭 I’m currently working on some amazing projects. Yet to be disclosed :) stay in touch  -->
-- Visit [ericob.sytes.net](https://ericob.sytes.net) to learn more about me  
+- 🔭 I’m currently working on a __ board. Not yet checked to GtHub. Say in touch  
 - 👯 Anyone willing to collaborate on a register application? [Inbox me](mailto:obedamoako92@gmail.com)  
 - [🙏Buy me a coffee🙏](https://paypal.me/ericobe)  
 
