@@ -7,7 +7,7 @@
 - 👯 Anyone willing to collaborate on a register application? [Inbox me](mailto:obedamoako92@gmail.com)  
 - [🙏Buy me a coffee🙏](https://paypal.me/ericobe)  
 
-- :eyes: I am currently studying Full-stack Engineering at [ALX](https://www.alxafrica.com)  
+- :eyes: I recently completed Full-stack Engineering at [ALX](https://www.alxafrica.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obed101&&show_icons=true&theme=radical&layout=compact)](https://github.com/Obed101/github-readme-stats)  
 
