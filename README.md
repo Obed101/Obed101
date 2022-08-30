@@ -3,7 +3,8 @@
 - 📫 Want to reach me? Send a mail to [Obed Amoako](mailto:obedamoako92@gmail.com). Lets connect  
 - I do recommend you visit [ericob.sytes.net](https://ericob.sytes.net) to learn more about me and reach out to me  
 - 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8) :wave:  
-- 🔭 I’m currently working on a bank data emulator. Not yet checked to GitHub. Stay in touch  
+- 🔭 I’m currently working on a web application for an agriculture institution. Not yet checked to GitHub. It's name is **Athric**  
+-  You can follow the current project I'm developing on [my athric repository](https://github.com/Obed101/athric). I will soon begin to populate it
 - 👯 Anyone willing to collaborate on a register application? [Inbox me](mailto:obedamoako92@gmail.com)  
 - [🙏Buy me a coffee🙏](https://paypal.me/ericobe)  
 
