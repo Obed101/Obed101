@@ -5,7 +5,7 @@
 - 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8) :wave:  
 - 🎀 I recently completed the [**Omenako**](https://github.com/Obed101/omenako) project. Check it out and leave a 🌟star if you like it
 - 🔭 I’m currently working on a web application for an agriculture institution. Not yet checked to GitHub. It's name is **Athric**  
-📢📢 **[Athric](https://github.com/Obed101/athric) is coming on Thursday, September 08. 🔊 Stay closely in touch. You will be amazed!**
+📢📢 **[Athric](https://github.com/Obed101/athric) is coming on GihHub by Thursday, September 08. 🔊 Stay closely in touch. You will be amazed!**
 -  You can follow the current project I'm developing on [my athric repository](https://github.com/Obed101/athric). I will soon begin to populate it
 - 👯 Anyone willing to collaborate on a register application? [Inbox me](mailto:obedamoako92@gmail.com)  
 - [🙏Buy me a coffee🙏](https://paypal.me/ericobe)  
