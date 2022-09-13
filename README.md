@@ -1,16 +1,15 @@
-## Hi there 👋 This is Obed Amoako
+## Hi there, 👋 This is Obed Amoako
 
 - 📫 Want to reach me? Send a mail to [Obed Amoako](mailto:obedamoako92@gmail.com). Lets connect  
 - I do recommend you visit [ericob.sytes.net](https://ericob.sytes.net) to learn more about me and reach out to me  
 - 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8) :wave:  
 - 🎀 I recently completed the [**Omenako**](https://github.com/Obed101/omenako) project. Check it out and leave a 🌟star if you like it
-- 🔭 I’m currently working on a web application for an agriculture institution. Not yet checked to GitHub. It's name is **Athric**  
-📢📢 **[Athric](https://github.com/Obed101/athric) is coming on GihHub by Thursday, September 08. 🔊 Stay closely in touch. You will be amazed!**
--  You can follow the current project I'm developing on [my athric repository](https://github.com/Obed101/athric). I will soon begin to populate it
-- 👯 Anyone willing to collaborate on a register application? [Inbox me](mailto:obedamoako92@gmail.com)  
-- [🙏Buy me a coffee🙏](https://paypal.me/ericobe)  
+- 🔭 I completed the **Athric** we application I was creating for an Agric institution.  
+📢📢  **Check it out in the [Athric repository](https://github.com/Obed101/athric). You will be amazed!**
+- 👯 Are you willing to collaborate with me on a project? [Inbox me](mailto:obedamoako92@gmail.com)  
+- [🙏Offer me a coffee here🙏](https://paypal.me/ericobe)  
 
-- :eyes: I recently completed Full-stack Engineering at [ALX](https://www.alxafrica.com)  
+- :eyes: I completed Full-stack Engineering at [ALX](https://www.alxafrica.com) on 30th June, 2022  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obed101&&show_icons=true&theme=radical&layout=compact)](https://github.com/Obed101/github-readme-stats)  
 
