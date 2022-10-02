@@ -5,7 +5,7 @@ Software Engineer - Since May, 2021
 - 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8) :wave:  
 - 🎀 I completed the [**Omenako**](https://github.com/Obed101/omenako) project in August 2022. Check it out and leave a 🌟star if you like it
 - 🔭 I completed the **Athric** web application I was creating for an Agric institution in September 2022.  
-📢📢  **Check it out in the [Athric repository](https://github.com/Obed101/athric). You will be amazed!**
+📢📢  **Check it out in the [✨ATHRIC REPOSITORY✨](https://github.com/Obed101/athric). You will be amazed!**
 - 👯 Are you willing to collaborate with me on a project? [Inbox me](mailto:obedamoako92@gmail.com)  
 - [🙏Offer me a coffee here🙏](https://paypal.me/ericobe)  
 
