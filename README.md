@@ -1,8 +1,9 @@
 ## Hi there, 👋 This is Obed Amoako  
-Software Engineer @ Minishef - We create software to solve industry problems
+Fullstack Software Engineer
 - 📫 Want to reach me? Send a mail to [Obed Amoako](mailto:obedamoako92@gmail.com). Lets connect  
 - I do recommend you visit [ericob.sytes.net](https://ericob.sytes.net) to learn more about me and reach out to me  
-- 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8)  
+- 💬 Other ways to reach me: [LinkedIn](https://linkedin.com/in/ericob3d) | [Twitter](https://twitter.com/ObedAmoako8)
+- 🎀 I completed the ultimate [**Athfarms**](https://github.com/Obed101/athfarms) project in October 2022. Check it out.
 - 🎀 I completed the [**Omenako**](https://github.com/Obed101/omenako) project in August 2022. Check it out.
 - 🔭 I completed the **Athric** web application I was creating for an Agric institution in September 2022.  
   🎯Check it out in the [✨ATHRIC REPOSITORY✨](https://github.com/Obed101/athric).  
